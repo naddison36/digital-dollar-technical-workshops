@@ -36,8 +36,9 @@ Below are the function and non functional requirements the technical workshops a
 
 ## Technical Challenges
  There are number of technical challenges that need to be solved in order to meet the functional and non functional requirements.
+ 
 |Challenge|Description|
-|---|---|
+|---------|-----------|
 | Privacy | Privacy of parties, transactions and balances |
 | Performance |Scaling the number of participants, transaction throughput and reducing the transaction latency|
 | Trust | Securing the collateral that pegs the value|
