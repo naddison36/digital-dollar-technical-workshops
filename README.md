@@ -64,9 +64,8 @@ The goal of the workshop is to survey the wider landscape of emerging options an
 
 ## Terms
 
-| **GLOSSARY TERM** |
+| **GLOSSARY TERM** | Description in our context |
 |-----------|-----------|
-| Description and Usage in our context|
 | DR | "Depository Receipts" (custody tokens) provided by a participant, backed by assets (e.g. dollars) in custody |
 | DRI | "Deposit Receipt Institution" - aka ***Gateway***, aka "Deposit Receipt Counterparty" |
 | (Private) Nodal logic | Programmable logic that is owned by and *automatically* executed by a participant in the system but whose execution is private and internal to other participants - i.e. not publicly verifiable, outside of its inputs and outputs appearing to be valid for any given transaction.  Private nodal logic can involve methods such as execution off-chain (such as in R3), or through zero-knowledge proofs.  Most web services (e.g. HTTP APIs) execute private nodal logic, without proof of integrity. |
