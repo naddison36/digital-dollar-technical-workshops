@@ -93,7 +93,6 @@ Below are the function and non functional requirements the technical workshops a
 | Sub Sec Latency| Transactions |
 | 1 million nodes | EFTPOS is closing in on 1 million terminals in Australia|
 | Machine/Mobile/IoT | Transactions can be signed/initiated on devices with low computing power. |
-|
 
 ## Technical Challenges
  There are number of technical challenges that need to be solved in order to meet the functional and non functional requirements.
@@ -118,6 +117,7 @@ Below are the function and non functional requirements the technical workshops a
 | DR | "Depository Receipts" (custody tokens) provided by a participant, backed by assets (e.g. dollars) in custody |
 | DRI | "Deposit Receipt Institution" - aka ***Gateway***, aka "Deposit Receipt Counterparty" |
 | Keychain | Also known as a 'wallet' in crypto-currency. Private keys used to sign transactions or execute logic. |
+| DEX | A Decentralised Exchange (DEX) facilitates the exchange of different blockchain tokens between parties without a third party intermediatory. |
 | MRB | Minimum Reserve balance - an amount that a custodial institution (normally a bank) is required to hold to be compliant with any applicable regulations (e.g. overnight reserves) |
 | (Private) Nodal logic | Programmable logic that is owned by and *automatically* executed by a participant in the system but whose execution is private and internal to other participants - i.e. not publicly verifiable, outside of its inputs and outputs appearing to be valid for any given transaction. Private nodal logic can involve methods such as execution off-chain (such as in R3), or through zero-knowledge proofs. Most web services (e.g. HTTP APIs) execute private nodal logic, without proof of integrity. |
 | Participant | Any actor that interacts with the distributed ledger. eg individual, company, thing or autonomous code |
