@@ -84,7 +84,7 @@ Below are the function and non functional requirements the technical workshops a
 |-----------|-----------|
 | Legally compliant | The system must be compliant with Australian laws, *and broadly with international laws*. |
 | Low barrier to participation | Joining the network should not require permission from any central authority, although other functions may require their co-operation. |
-| Fungible | Any token must be 
+| Fungible | Any token must be equivalent to another token from the same gateway (Deposit Receipt Counterparty) |
 | Identified parties | Participants must be able to identify who they are transacting with. |
 | Open | is open to any individual or entity. Is not limited to use between a limited number of financial institutions. |
 | No mediation | A holder of digital dollars can transfer dollars directly to another party without mediation by a third party.|
