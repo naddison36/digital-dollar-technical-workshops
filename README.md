@@ -65,6 +65,7 @@ The goal of the workshop is to survey the wider landscape of emerging options an
 ## Terms
 
 | **GLOSSARY TERM** | Description and Usage in our context|
+|-----------|-----------|
 | DR | "Depository Receipts" (custody tokens) provided by a participant, backed by assets (e.g. dollars) in custody |
 | (Private) Nodal logic | Programmable logic that is owned by and *automatically* executed by a participant in the system but whose execution is private and internal to other participants.  Private nodal logic can only verified by its inputs and outputs.  Most web services (e.g. HTTP APIs) execute private nodal logic. |
 | Crypto-currency | An asset (token) whose trust, concensus and economic model comes *solely* from the game-theory and economics of a DL (blockchain) system, enforced by rules shared by all participants rather than privately or externally |
@@ -99,6 +100,7 @@ Below are the function and non functional requirements the technical workshops a
 
 ## Future Integrations
 | Integration | Description |
+|-----------|-----------|
 | Participant metadata | Participants (accounts) may attach descriptions of themselves and their assets, e.g. identify fields, or the current usage state of an asset, e.g. debt/mortgage, savings |
 | AML/KYC capability | Allow use of AML/KYC services to certify identities used in the system |
 | Identity query | Participants may issue permission to other participants to query identity meta-data *OR* check that a held meta-data field matches that from an identity authority |
