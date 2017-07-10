@@ -54,7 +54,7 @@ Examples of digital fiat-backed blockchain assets exist already, both privately 
 * Commonwealth Bank of Australia (CBA)
 
 
-The goal of the workshop is to survey the wider landscape of emergen
+The goal of the workshop is to survey the wider landscape of emerging options and likely intended features.  Additionally second layer (future) extensibility is to be a key factor in design decisions.
 
 ## Problem statement
 *How to tokenise dollars (or fiat currency) to create blockchain assets that can be transacted within distributed economies, across financial institutions and within smart-contracts*
