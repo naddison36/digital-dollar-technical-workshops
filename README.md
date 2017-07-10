@@ -6,7 +6,7 @@ Project initiation is through a series of workshops attended by Blockchain exper
 
 The first application is the digital Australian dollar - for practical reasons.  Such reasons include a relatively known legal landscape and a strong local appetite for this technology to be realized.
 
-##Background
+## Background
 
 The design of this system is guided by the **immediate goal of creating a (Australian) blockchain dollar**, however the principles of these designs should apply to any other fiat currency and, in fact - **_any blockchain assets backed by - or redeemable for - 'real world' securities/assets_**.
 
